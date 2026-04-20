@@ -1,2 +1,5 @@
 calendar/.env
 quickshell/
+.vscode/
+.idea/
+.DS_Store

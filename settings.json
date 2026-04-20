@@ -2,6 +2,8 @@
   "uiScale": 1.0,
   "openGuideAtStartup": true,
   "topbarHelpIcon": true,
+  "matugenMonochrome": false,
+  "matugenAccentMode": "balanced",
   "wallpaperDir": "/home/twang/Wallpapers",
   "language": "us,vn",
   "kbOptions": "grp:ctrl_shift_toggle"
